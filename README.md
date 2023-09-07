@@ -12,6 +12,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gojayevmurad&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<a href="https://github.com/gojayevmurad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gojayevmurad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=gojayevmurad&icon=0&color=0)](https://visitcount.itsvg.in)
 
